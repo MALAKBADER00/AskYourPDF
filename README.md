@@ -45,9 +45,7 @@ Ask Your PDF is a practice project integrating OpenAI API functionality powered 
    - Semantic Search: When a user asks a question, the get_answer function converts the query into an embedding and performs a semantic search on the FAISS index to find the most relevant text chunks.
    - LangChain QA Chain: The relevant chunks are then passed to the QA chain, which is powered by OpenAI's language model specified by the user's API key. This model uses the context provided by the retrieved text chunks to generate an accurate and contextually appropriate answer.
 
-## Flowchart
-
-Here is a detailed flowchart that visualizes the entire process:
+![Example Image](Architecture.png)
 
 ## How to Use
 
