@@ -46,7 +46,7 @@ Ask Your PDF is a practice project integrating OpenAI API functionality powered 
    - LangChain QA Chain: The relevant chunks are then passed to the QA chain, which is powered by OpenAI's language model specified by the user's API key. This model uses the context provided by the retrieved text chunks to generate an accurate and contextually appropriate answer.
 
 <div style="text-align: center;">
-  <img src="Architecture.png" alt="Example Image" width="80%"/>
+  <img src="Architecture.png" alt="Architecture Diagram" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
 </div>
 
 ## How to Use
