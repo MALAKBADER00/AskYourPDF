@@ -48,7 +48,7 @@ Ask Your PDF is a practice project integrating OpenAI API functionality powered 
 
 3. **Building the FAISS Index:**
 
-   - **OpenAI Embeddings: The `create_faiss_vector_store` function creates embeddings for each text chunk using the OpenAI API. These embeddings are vector representations of the text chunks.
+   - **OpenAI Embeddings:** The `create_faiss_vector_store` function creates embeddings for each text chunk using the OpenAI API. These embeddings are vector representations of the text chunks.
 
    - **FAISS:** These vectors are then stored in a FAISS index. FAISS (Facebook AI Similarity Search) is a library designed to perform efficient similarity search and clustering of dense vectors. This index allows for quick retrieval of similar text chunks when a query is made.
 
