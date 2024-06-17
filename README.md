@@ -7,11 +7,16 @@ Ask Your PDF is a practice project integrating OpenAI API functionality powered 
 ## Technologies Used
 
 - **Python:**  Core programming language.
+  
 - **Streamlit:**  Framework for building web applications.
+  
 - **OpenAI API:**  Provides AI-powered question-answering capabilities.
+  
 - **PyPDF2:**  Library for reading PDF files.
+  
 - **LangChain:**  NLP library for text processing and vector embeddings.
   - LangChain enables advanced natural language processing and integration of various AI models for tasks like text generation, summarization, and question answering.
+
 - **FAISS:**  Library for efficient similarity search.
   - FAISS (Facebook AI Similarity Search) is a library for efficient similarity search and clustering of dense vectors, making it ideal for handling large-scale search queries.
 
