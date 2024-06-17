@@ -35,6 +35,7 @@ Ask Your PDF is a practice project integrating OpenAI API functionality powered 
 - **Chat Interface:** A user-friendly chat interface for interaction.
 
 ## Demo
+![demo](demo.mp4)
 
 ## How It Works in Detail
 
