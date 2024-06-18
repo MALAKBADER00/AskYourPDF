@@ -78,5 +78,5 @@ pip install -r requirements.txt
 3. Run the Application
 
 ```
-streamlit run app.py
+streamlit run main.py
 ```
