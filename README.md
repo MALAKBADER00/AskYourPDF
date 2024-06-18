@@ -37,7 +37,7 @@ Ask Your PDF is a practice project integrating OpenAI API functionality powered 
 ## Demo
 [![Watch the video](demo_img.png)](demo.mp4)
 
-## How It Works in Detail
+## How It Works in Details
 
 1. **PDF Text Extraction:**
 
