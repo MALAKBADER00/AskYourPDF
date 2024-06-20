@@ -3,6 +3,7 @@
 ## Overview
 
 Ask Your PDF is a practice project integrating OpenAI API functionality powered by LangChain to create a PDF chatbot.
+- check it out from here [https://askyourpdfchatbot.streamlit.app/]
 
 ## Technologies Used
 
